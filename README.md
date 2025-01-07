@@ -20,7 +20,7 @@ $ make run
 
 ## Full tutorialnya?
 - Link video <code><a href="https://youtu.be/1QPsHvjS_y0?si=JkPlngZx_VGxqIrA">klik disini</a></code>
-- Subs yt admin <code><a href="https://youtube.com/@FreeTutorialOfficial?si=9hamt4Px2gXzPY9x">FREE TUTORIAL</a></code>
+- Subs yt admin <code><a href="https://www.youtube.com/@yukinime_editz">Yukinime</a></code>
 <div align="center">
 
 ### Jgn lupa kasih star masbro !
