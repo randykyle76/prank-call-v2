@@ -1,5 +1,5 @@
-from sanz import sanzexde
+from randy import randyexde
 
-sanz = sanzexde
+randy = randyexde
 
-print(sanz)
+print(randy)
