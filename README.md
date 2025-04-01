@@ -16,4 +16,3 @@ $ ./main
 Atau bisa juga run script nya dg ketik perintah
 $ make run
 ```
-# Thanks
